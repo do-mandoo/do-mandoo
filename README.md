@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm jinsol Won</h1>
 <h3 align="center">A passionate frontend developer from South Korea</h3>
-
-- 🔭 I’m currently working on [K-BnB](https://k-bnb.netlify.app/)
+<!-- 
+- 🔭 I’m currently working on [K-BnB](https://k-bnb.netlify.app/) -->
 
 - 📫 How to reach me **sksmsdi38@gmail.com**
 
